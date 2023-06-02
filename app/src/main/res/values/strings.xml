@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="duracao">Duração do curso: 4 anos</string>
+    <string name="quantidade">Quantidade de aulas : 30</string>
+    <string name="titulo_curso">Curso individualizado de DSA</string>
+</resources>
